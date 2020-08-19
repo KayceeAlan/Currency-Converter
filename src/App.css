@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    background-color: blueviolet;
+}
+
+h1{
+    margin: 0;
+    margin-bottom: .5rem;
+    color: white;
+}
+
+.input{
+    border: 2px solid #333;
+    border-radius: .3em;
+    padding: .25rem;
+    width: 10em;
+}
+
+select{
+    margin-left: .5rem;
+}
+
+.equals{
+    font-weight: bold;
+    font-size: 2rem;
+    color: white;
+}
